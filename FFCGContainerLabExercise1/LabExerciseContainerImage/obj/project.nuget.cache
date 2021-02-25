@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UH/w517EBgVK263O2D15mdlZiITbD4pkdZFFamZ7ttglc1DOLgtmx1G/4EF75hPpAb+Sy07AsaRfdHrU45KUjA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\FFCG_ContainersLabExercise1_DockerOnAzureContainerRegistry\\FFCGContainerLabExercise1\\LabExerciseContainerImage\\LabExerciseContainerImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonah.andersson\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\jonah.andersson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
