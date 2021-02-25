@@ -1,1 +1,1 @@
-# FFCG_ContainersLabExercise1_DockerOnAzureContainerRegistry
+# ContainersLabExercise1_DockerOnAzureContainerRegistry
