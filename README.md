@@ -1,4 +1,4 @@
 # Blazor Web Server App  - ContainersLabExercise1_DockerOnAzureContainerRegistry
 
-Jonah's lab and hands-on exercise for container course at Forefront 
+Jonah's  hands-on exercise for container on Docker 
 Docker Hub Image link available to send
